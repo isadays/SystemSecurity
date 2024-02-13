@@ -8,3 +8,5 @@ References:
 
 [2]. [IBM - Creating a deep learning neural network for anomaly detection on time-series data](https://developer.ibm.com/tutorials/iot-deep-learning-anomaly-detection-5/)
 
+[3].[Download files- You need watsoniotp.broken.phase_aligned.pickle and watsoniotp.healthy.phase_aligned.pickle] (https://github.com/claimed-framework/component-library/tree/master/component-library/anomaly/anomaly-score-unsupervised)
+
