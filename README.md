@@ -1,2 +1,2 @@
 # SystemSecurity
-Improving system security using neural networks
+Enhancing the system security with neural networks
