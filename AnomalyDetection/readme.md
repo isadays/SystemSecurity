@@ -1,6 +1,6 @@
 Anomaly detection is a essential branch of data analysis with application in many fields such as finance, 
 cybersecurity, healthcare, and etc. The task involves identifying patterns that deviate significantly from the norm, 
-indicating fraudulent activity, or other unexpected events. 
+indicating fraudulent activity, or other unexpected events. This code is inspired on Ref 2.
 
 References:
 
